@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: green;
+    background-size: cover;
+    color: white;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+    font-size: 28px;
+}
+button{
+    color: white;
+    background: rgb(204, 149, 10);
+    font-weight: bold;
+    width: 150px;
+    letter-spacing: 1px;
+    margin-top: 10PX;
+    padding: 10px 10px;
+}
